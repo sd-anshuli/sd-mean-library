@@ -1,7 +1,7 @@
 # mean-sd-library
 sd- component-library
 
-bower install angular
+bower install
 
 npm install
 
