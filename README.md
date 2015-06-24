@@ -2,5 +2,6 @@
 sd- component-library
 
 bower install angular
+
 npm install
 
